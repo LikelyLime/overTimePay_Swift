@@ -39,7 +39,7 @@ struct ContentView2: View {
                         .frame(width: 80, height: 40)
                         .background(Color.blue)
                         .cornerRadius(10)
-                }
+                } 
             }
             Group{
                 Text("비밀번호")
